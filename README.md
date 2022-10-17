@@ -29,4 +29,8 @@ For Run This Application:
     ```
     php artisan db:seed
     ```
+- Step 5: Command (6) another tab -> cmd
+    ```
+    php artisan serve
+    ```
 
